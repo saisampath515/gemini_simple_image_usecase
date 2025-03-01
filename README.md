@@ -1,4 +1,4 @@
-# Sample Gemini Chatbot
+## Sample Gemini Chatbot
 
 Visit [Google AI Studio (Text)](https://makersuite.google.com/app/apikey) to get your API keys.
 
