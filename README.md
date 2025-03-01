@@ -1,4 +1,4 @@
-##Sample Gemini chatbot
+#Sample Gemini chatbot
 
 visit Google ai studio([text](https://aistudio.google.com/prompts/new_chat)) to get api keys.
 *To use this code follow the steps mentioned below.
